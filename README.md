@@ -1,4 +1,4 @@
-# expense_tracker
+# weatherApp
 
 A new Flutter project.
 
